@@ -10,5 +10,5 @@ There are 3 files needed for this project, the first one is a twitter archive cs
 The second one needs to be downloaded programatically and is a dataset which contains the dog breed predictions a neural network made when the photos from the tweets were used as input. Finally, it necessary to query twitter's API to collect additional data on these tweets, such as number of likes and retweets. 
 ## Clean
 These 3 datasets need to then be cleaned and possibly organized into a master pandas DataFrame object. Techniques involved are using pandas 'melt' and 'merge' functions and string parsing. 
-## Explored
+## Explore
 Once the data has been cleaned, a couple of insights and visualisations will be given regarding tweets on the WeRateDogs page. 
